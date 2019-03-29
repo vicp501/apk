@@ -22,14 +22,10 @@ pornzee|https://www.pornzee.com/
 02
 03
 04
-05
-06
 ***
 http://z1.m1907.cn/?jx=
 https://www.jqaaa.com/jx.php?url=
-http://api.bbbbbb.me/jx/?url=
 http://jx.itaoju.top/?url=
-http://app.baiyug.cn:2019/vip/index.php?url=
 http://j.zz22x.com/jx/?url=
 ***
 http://z1.m1907.cn/?jx=
@@ -38,10 +34,6 @@ http://z1.m1907.cn/?jx=
 ######xianlu_pc<######
 https://www.jqaaa.com/jx.php?url=
 http://jx.itaoju.top/?url=
-http://api.bbbbbb.me/jx/?url=
-https://2wk.com/vip.php?url=
-http://app.baiyug.cn:2019/vip/index.php?url=
-http://09dh.cn/jx/?url=
 http://z1.m1907.cn/?jx=
 ######xianlu_pc>######
 ######config_pc<######
@@ -52,4 +44,11 @@ http://z1.m1907.cn/?jx=
 ######config_pc>######
 
 
+
+
+/////////////////////////////
+http://api.bbbbbb.me/jx/?url=
+https://2wk.com/vip.php?url=
+http://app.baiyug.cn:2019/vip/index.php?url=
+http://09dh.cn/jx/?url=
 
