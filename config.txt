@@ -3,6 +3,16 @@
 <explain>更新</explain>-----这里是更新内容
 <update>https://raw.githubusercontent.com/vicp501/apk/master/xxdd.apk</update>-----这里是更新软件的下载地址
 <text>我正在使用#免VIP看视频#不用开通VIP会员账号,直接观看全网VIP视频!省钱利器!!!安卓版软件下载地址：</text>---这里是分享内容
+<url_001>http://www.kk2w.cc</url_001>--------okzy
+<url_002>http://www.zuidazy1.com</url_002>---最大
+<url_003>http://156zy.co</url_003>--------156
+<url_004>http://135zy.cc</url_004>--------135
+<url_005>http://131zy.vip</url_005>-------131
+<url_006>http://m.imomoe.io</url_006>-----樱花
+<url_007>https://www.cmdy5.com</url_007>---草民
+<url_008>https://www.494k.com</url_008>-----4k
+<url_009>http://www.kukuzy.com</url_009>
+<url_010>http://www.gaoqingzy.com</url_010>
 ######config>######
 ######crurl<######
 theporn|http://jp.theporn.xyz/categories/all
