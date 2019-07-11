@@ -1,7 +1,7 @@
 ######config<######
 <version>1.51</version>-----版本号
 <explain>更新：搜索;分类bug</explain>-----这里是更新内容
-<update>https://raw.githubusercontent.com/vicp501/apk/master/xiongdasss.apk</update>-----这里是更新软件的下载地址
+<update>https://raw.githubusercontent.com/vicp501/apk/master/xds.apk</update>-----这里是更新软件的下载地址
 <text>我正在使用#免VIP看视频#不用开通VIP会员账号,直接观看全网VIP视频!省钱利器!!!安卓版软件下载地址：</text>---这里是分享内容
 <url_001>http://www.kk2w.cc</url_001>--------okzy
 <url_002>http://www.zuidazy1.com</url_002>---最大
