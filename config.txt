@@ -13,6 +13,8 @@
 <url_008>https://www.494k.com</url_008>-----4k
 <url_009>http://www.kukuzy.com</url_009>
 <url_010>http://www.gaoqingzy.com</url_010>
+<url_011>http://api.iixxzyapi.com</url_011>
+<url_012>http://dadizy10.com</url_012>
 ######config>######
 ######crurl<######
 theporn|http://jp.theporn.xyz/categories/all
