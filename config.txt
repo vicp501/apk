@@ -26,12 +26,12 @@ pornzee|https://www.pornzee.com/
 ######xianlu<######
 01___http://z1.m1907.cn/?jx=
 02___https://www.jqaaa.com/jx.php?url=
-03___http://jx.itaoju.top/?url=
+03___https://api.bingdou.net/?url=
 04___http://j.zz22x.com/jx/?url=
 ######xianlu>######
 ######xianlu_pc<######
 https://www.jqaaa.com/jx.php?url=
-http://jx.itaoju.top/?url=
+https://api.bingdou.net/?url=
 http://z1.m1907.cn/?jx=
 ######xianlu_pc>######
 ######config_pc<######
