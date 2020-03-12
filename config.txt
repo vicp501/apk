@@ -1,7 +1,7 @@
 ######config<######
-<version>1.58</version>-----版本号
-<explain>版本1.58修复一些bug; 添加123资源; 添加解析名称播放功能； 如果无法更新到此下载：https://xiongda128.home.blog</explain>-----这里是更新内容
-<update>https://raw.githubusercontent.com/vicp501/app/master/xd1.58.apk</update>-----这里是更新软件的下载地址
+<version>1.59</version>-----版本号
+<explain>版本1.59优化启动速度; 添加玉米资源如果无法更新到此下载：https://www.lanzous.com/ia71i9a</explain>-----这里是更新内容
+<update>https://raw.githubusercontent.com/vicp501/appp/master/xdys1.59.zip</update>-----这里是更新软件的下载地址
 <text>我正在使用#免VIP看视频#不用开通VIP会员账号,直接观看全网VIP视频!省钱利器!!!安卓版软件下载地址：</text>---这里是分享内容
 <url_001>http://www.kk2w.cc</url_001>--------okzy
 <url_002>http://www.zuidazy1.com</url_002>---最大
@@ -9,7 +9,7 @@
 <url_004>http://135zy.cc</url_004>--------135
 <url_005>http://131zy.vip</url_005>-------131
 <url_006>http://m.imomoe.io</url_006>-----樱花
-<url_007>https://m.88ys.cc</url_007>---88ys
+<url_007>http://www.zdziyuan.com/inc/s_api_zuidam3u8.php</url_007>---最大
 <url_008>https://www.494k.com</url_008>-----4k
 <url_009>http://www.kukuzy.com</url_009>
 <url_010>http://www.gaoqingzy.com</url_010>
@@ -37,27 +37,36 @@ http://z1.m1907.cn/?jx=
 ######config_pc<######
 ######config_pc>######
 /////////////////////////////
-http://api.bbbbbb.me/jx/?url=
-https://2wk.com/vip.php?url=
-http://app.baiyug.cn:2019/vip/index.php?url=
-http://09dh.cn/jx/?url=
+
 
 #*#*#*#*#-
 <url_001>http://www.kk2w.cc</url_001>--------okzy
-<url_002>http://www.123ku.com/inc/123kum3u8.php</url_002>---最大
-<url_003>http://cj.156zy.me/inc/33uuck.php</url_003>--------156
+<url_002>http://www.123ku.com/inc/123kum3u8.php</url_002>---123
+<url_003>http://cj.bajiecaiji.com/inc/seabjm3u8.php</url_003>--------156
 <url_004>http://cj.zycjw1.com/inc/135m3u8.php</url_004>--------135
 <url_005>http://v.bbtsv.com/inc/131m3u8.php</url_005>-------131
 <url_006>http://m.imomoe.io</url_006>-----樱花
-<url_007>https://m.88ys.cc</url_007>---88ys
+<url_007>http://www.zdziyuan.com/inc/s_api_zuidam3u8.php</url_007>---最大
 <url_008>https://www.494k.com</url_008>-----4k
 <url_009>http://www.kukuzy.com</url_009>
 <url_010>http://cj.gaoqingzyw.com/inc/gqm3u8.php</url_010>
 <url_011>http://api.iixxzyapi.com/inc/ldg_seackm3u8.php</url_011>
 <url_012>https://dadiapi.com/api.php</url_012>
 <url_013>https://www.nirige.site</url_013>
-<url_020>https://xiongda128.home.blog/</url_020>
+<url_014>http://www.labayy.com</url_014>
+
+<url_020>https://www.lanzous.com/ia71i9a</url_020>
 
 -#*#*#*#*#
-
-http://www.zuidazy2.net/inc/api_zuidam3u8.php
+###tgulr<###
+<url_001>https://hao.360.cn/?src=lm&ls=n4ccbba0692</url_001>
+<url_002>http://hao.7654.com/?chno=7654dh_108191</url_002>
+<url_003>http://dfttpc.7654.com/?chno=108191</url_003>
+<url_004></url_004>
+<url_005></url_005>
+<url_006>https://mhxyq.000webhostapp.com/ad/</url_006>
+<url_007>轮播</url_007>
+<url_008></url_008>
+<url_009></url_009>
+<url_010></url_010>
+###tgulr<###
