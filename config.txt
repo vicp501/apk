@@ -48,7 +48,7 @@ http://z1.m1907.cn/?jx=
 <url_006>http://m.imomoe.io</url_006>-----樱花
 <url_007>http://www.zdziyuan.com/inc/s_api_zuidam3u8.php</url_007>---最大
 <url_008>http://api.11bat.com/mac10.php</url_008>-----4k
-<url_009>http://www.kukuzy.com</url_009>
+<url_009>https://lbapi9.com/api.php/provide/vod/at/xml/</url_009>
 <url_010>http://cj.gaoqingzyw.com/inc/gqm3u8.php</url_010>
 <url_011>http://api.iixxzyapi.com/inc/ldg_seackm3u8.php</url_011>
 <url_012>https://dadiapi.com/api.php</url_012>
